@@ -1,0 +1,14 @@
+.idea/
+venv/
+Form_CRUD/Form_CRUD/
+Form_CRUD/form_data_send_receive/migrations/
+Form_CRUD/form_data_send_receive/__init.py/
+Form_CRUD/form_data_send_receive/admin.py/
+Form_CRUD/form_data_send_receive/apps.py/
+Form_CRUD/form_data_send_receive/__init__.py/
+Form_CRUD/form_data_send_receive/__init__.py
+Form_CRUD/form_data_send_receive/admin.py
+Form_CRUD/form_data_send_receive/apps.py
+Form_CRUD/manage.py
+Form_CRUD/db.sqlite3
+Form_CRUD/form_data_send_receive/__pycache__/
