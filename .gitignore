@@ -1,2 +1,18 @@
+#venv/
+#Form_CRUD/form_data_send_receive/__pycache__/
+# Distribution / packaging
+.Python
 venv/
-Form_CRUD/form_data_send_receive/__pycache__/
+env/
+*.sqlite3
+.idea/
+# Project asset folders
+media/
+# Database
+db.sqlite3
+# Editor directories and files
+.idea
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class

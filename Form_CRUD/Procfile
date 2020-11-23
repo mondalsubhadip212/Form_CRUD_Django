@@ -1,0 +1,1 @@
+web: gunicorn Form_CRUD.wegi --log-file -
