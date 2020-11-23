@@ -4,4 +4,6 @@ from .views import *
 
 urlpatterns = [
     path('form/',FormView ,name='FormView'),
+    path('details/<str:id>/',PersonView,name='PersonView'),
+    path('delete/<str:id>/',Persondelete,name='PersonDelete'),
 ]
